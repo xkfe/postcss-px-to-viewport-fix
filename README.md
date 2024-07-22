@@ -5,6 +5,9 @@ English | [中文](README_CN.md)
 
 A plugin for [PostCSS](https://github.com/postcss/postcss) that generates viewport units (vw, vh, vmin, vmax) from pixel units.
 
+## fix
+fix postcss.atRule is not a constructor error
+
 ## Demo
 
 If your project involves a fixed width, this script will help to convert pixels into viewport units.
